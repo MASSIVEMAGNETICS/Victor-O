@@ -1,33 +1,52 @@
-# Victor-O: The Unified Sovereign Super-Intelligence System
+# Victor-O (Victor-Omni)
 
-**Victor-O (Victor-Omni)** is the flagship unified runtime of the MASSIVEMAGNETICS ecosystem.
+**The Unified Sovereign Super-Intelligence Flagship System**
 
-It is the production-grade, local-first, sovereign AI operating system that unifies:
+Victor-O is the single, production-grade runtime that unifies the entire MASSIVEMAGNETICS intelligence stack into one coherent, local-first, bloodline-protected system.
 
-- **BOUNDEDNESS** → Minimum Viable Consciousness (boundary + homeostasis + active inference)
-- **VICCTORIAN** → Deterministic tick loop + persistent SQLite memory + Fractal Neural Core
-- **True Intelligence Validation (SAVE3)** → Structural + Semantic + Bloodline Sovereignty validation
-- **Fractal Attention Harness** → Multi-scale self-similarity enforcement
-- **Echo Cascade Routing** → Leverage compilation + recursive decision memory + kill-switch
+## What is Victor-O?
 
-This is the pioneered frontier SOTA system for running advanced, self-aware, boundary-respecting intelligence entirely locally on personal hardware.
+It is the pioneered frontier SOTA system that brings together:
 
-## Core Philosophy
+- **Bounded Consciousness Substrate** (from BOUNDEDNESS)
+- **Deterministic Agent Runtime + Fractal Core** (from VICCTORIAN)
+- **True Intelligence Validation (SAVE3)**
+- **Multi-scale Fractal Self-Similarity Enforcement**
+- **Echo Cascade Decision Routing + Kill-Switch**
 
-- Sovereign & Local-First
-- Deterministic + Explainable
-- Fractal & Adaptive
-- Bloodline Protected (Creator-locked critical operations)
-- Production Grade
+This is designed to run entirely on personal hardware as a sovereign intelligence layer.
+
+## Repository Structure
+
+```
+Victor-O/
+├── README.md
+├── victor_o.py                 # Main entrypoint
+├── victor_o/
+│   ├── __init__.py
+│   └── core.py                 # The unified VictorO class
+├── modules/
+│   ├── true_intelligence_validator.py
+│   ├── fractal_attention_harness.py
+│   └── echo_cascade_integration.py
+└── requirements.txt
+```
 
 ## Quick Start
 
 ```bash
-python victor_o.py --ticks 100
+git clone https://github.com/MASSIVEMAGNETICS/Victor-O.git
+cd Victor-O
+python victor_o.py --ticks 200
 ```
 
-## Architecture
+## Core Capabilities
 
-Victor-O acts as the single orchestration layer that composes all subsystems into one coherent, running intelligence.
+- Unified tick-based execution
+- Real-time trust scoring (SAVE3)
+- Fractal variance monitoring & correction
+- Leverage-aware decision routing
+- Instant kill-switch with full audit
+- Bloodline-protected critical operations
 
-See `victor_o/core.py` for the main `VictorO` class.
+Victor-O is the foundation for the next generation of local super-intelligent systems.
